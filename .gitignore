@@ -1,0 +1,25 @@
+# OS generated files #
+######################
+*.DS_Store
+.Trashes
+.fseventsd
+.Spotlight-V100
+._*
+.Trashes
+
+# "Icon" must end with two \r
+Icon
+
+
+ehthumbs.db
+Thumbs.db
+
+# Project related files #
+#########################
+node_modules/
+npm-*.log
+
+# IDE realted files #
+#####################
+*.sublime-project
+*.sublime-workspace
